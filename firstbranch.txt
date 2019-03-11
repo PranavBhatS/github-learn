@@ -4,4 +4,4 @@ git checkout -b branch_name
 
 push from first
 
-stach changes
+stash changes
