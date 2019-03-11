@@ -10,3 +10,4 @@ push from first branch
 new first changes
 
 ok changes in master
+new changes in master
