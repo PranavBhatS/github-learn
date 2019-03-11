@@ -1,3 +1,6 @@
 git branch branch_name
 or
 git checkout -b branch_name
+
+push from first branch
+
