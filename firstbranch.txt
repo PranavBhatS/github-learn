@@ -2,6 +2,9 @@ git branch branch_name
 or
 git checkout -b branch_name
 
+push from first
+
+stash changes
 push from first branch
 
 new first changes
