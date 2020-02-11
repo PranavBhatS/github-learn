@@ -11,3 +11,14 @@ new first changes
 
 ok changes in master
 new changes in master
+==>moving from 1 branch to other
+git add .
+
+git stash
+
+
+checkout -b
+
+git stash apply
+
+git push -u origin feature/ManageExercises
